@@ -1,1 +1,1 @@
-# AirBnB_clone
+README to BnB
