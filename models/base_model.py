@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """ Base Model Module """
-import AirBnB_clone
-import models
+import model
 from uuid import uuid4
 from datetime import datetime
 
