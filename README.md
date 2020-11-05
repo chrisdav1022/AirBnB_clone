@@ -4,7 +4,7 @@
 
 # DESCRIPTION
 
-This project consists of taking the commands and classes that the user writes to interpret and execute them, the result will be a json file that will show the instance created, the id with current date and time
+This project consists of taking the commands and classes that the user writes to interpret and execute them, the result will be a json file that will show the instance created, the id with current date and time.
 Finally, it gives the user the possibility to continue writing, creating, observing, destroying and updating the information of the classes.
 Possible errors when executing commands are:
 
@@ -17,9 +17,9 @@ Possible errors when executing commands are:
 # INSTALATION
 
 To install the AirBnb clone developed in the project:
-1- clone the git hub of ...
-2- use the command chmod u+x console or python3 console  
-3- open the console using ./console
+1- clone the git hub of https://github.com/chrisdav1022/AirBnB_clone.git.
+2- use the command chmod u+x console or python3 console.
+3- open the console using ./console.
 
 
 
