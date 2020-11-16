@@ -21,6 +21,14 @@ button{
 button:hover{
     opacity: 90%;
 }
+
+.amenities{
+    height: 100%;
+    width: 25%;
+    float: left;
+    text-align: left;
+    border-left: 1px solid #DDDDDD;
+}
 .locations{
     height: 100%;
     width: 25%;
@@ -28,16 +36,12 @@ button:hover{
     text-align: left;
     border-right: 1px solid #DDDDDD;
 }
-.amenities{
-    height: 100%;
-    width: 25%;
-    float: left;
-    text-align: left;
-}
 h3{
     font-weight: 600;
+    margin: 15px 50px 3px;
 }
 h4{
     font-weight: 400;
     font-size: 14px;
+    margin: 0px 50px 0px;
 }
